@@ -36,9 +36,3 @@ Theoretical answers provided as code comments within the main JS file, explainin
 - Strict (`===`) vs. Loose (`==`) equality.
 - The importance of `try-catch` in asynchronous operations.
 - Type Conversion vs. Type Coercion.
-
----
-
-## 👤 Author
-- **Name:** [Your Name Here]
-- **Track/Group:** [Your Track or Group Name]
